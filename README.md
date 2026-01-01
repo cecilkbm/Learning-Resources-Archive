@@ -1,8 +1,8 @@
-# 📚 Free Learning Resources Archive (Programming • Security • Cloud • Pentesting)
+# 📚 Free Learning Resources Archive (Programming • Security • Devops • Pentesting)
 
 Over the past three years, I’ve collected free educational resources (primarily PDFs) shared across LinkedIn and other public platforms.
 
-This repository serves as a centralized archive of those materials, covering a wide range of topics from software engineering and cloud computing to cybersecurity and penetration testing fundamentals.
+This repository serves as a centralized archive of those materials, covering a wide range of topics from programming and devops to cybersecurity and penetration testing fundamentals.
 
 The goal is simple:
 
@@ -13,10 +13,7 @@ Preserve freely shared knowledge and make it easier for others to learn.
 ## What’s Included
 This repository contains publicly shared, free educational resources, including:
   - Programming fundamentals
-  - Computer science concepts
   - Linux & windows system administration
-  - Networking fundamentals
-  - Cybersecurity foundations
   - Penetration testing theory & methodology
   - Career, interview, and certification prep
     
