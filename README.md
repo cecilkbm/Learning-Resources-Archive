@@ -14,13 +14,10 @@ Preserve freely shared knowledge and make it easier for others to learn.
 This repository contains publicly shared, free educational resources, including:
   - Programming fundamentals
   - Computer science concepts
-  - Cloud computing (AWS, Azure, GCP)
-  - Linux & system administration
+  - Linux & windows system administration
   - Networking fundamentals
   - Cybersecurity foundations
-  - Defensive security concepts
   - Penetration testing theory & methodology
-  - Blue team & red team learning materials
   - Career, interview, and certification prep
     
 All materials were shared publicly and freely at the time they were collected.
@@ -30,7 +27,7 @@ All materials were shared publicly and freely at the time they were collected.
 Resources are organized by topic to make discovery easier:
 
     /programming
-    /cloud
+    /interviewing
     /networking
     /linux
     /windows
