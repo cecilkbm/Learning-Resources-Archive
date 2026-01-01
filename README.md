@@ -33,6 +33,7 @@ Resources are organized by topic to make discovery easier:
     /cloud
     /networking
     /linux
+    /windows
     /security
     /pentesting
     /devops
