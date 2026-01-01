@@ -38,6 +38,7 @@ Resources are organized by topic to make discovery easier:
     /pentesting
     /devops
     /certifications
+    /tools
     /misc
 
 (Structure may evolve as the archive grows.)
