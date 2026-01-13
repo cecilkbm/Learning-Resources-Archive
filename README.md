@@ -42,7 +42,7 @@ Resources are organized by topic to make discovery easier:
   - Career switchers into tech or cybersecurity
   - Junior engineers and analysts
   - Anyone looking for free, high-quality learning materials
-This is not a toolkit — it’s a library.
+This is not a toolkit, it is a library.
 #
 ## ⚠️ Important Disclaimer (Please Read)
 
